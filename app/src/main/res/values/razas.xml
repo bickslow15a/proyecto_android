@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="razas">
+        <item>Bulldog</item>
+        <item>Pug</item>
+        <item>Labrador Retriever</item>
+        <item>Pastor Alemán</item>
+        <item>Chihuahua</item>
+        <item>Gran Danes</item>
+        <item>Rottwailer</item>
+        <item>Dalmata</item>
+        <item>Pitbull</item>
+        <item>Shih Tzu</item>
+        <item>perro salchicha</item>
+    </string-array>
+</resources>
